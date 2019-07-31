@@ -1,2 +1,2 @@
-# Money
+# money
 data visualisation module
